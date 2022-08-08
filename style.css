@@ -1,0 +1,8 @@
+#container{
+    width: 650px;
+    margin: auto;
+    /* border: 2px solid; */
+}
+#email{
+    width: 300px;
+}
